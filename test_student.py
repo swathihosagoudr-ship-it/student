@@ -2,7 +2,7 @@ from student import student_details
 
 def test_student_details():
     expected_output = (
-        "student Name: phone\n"
+        "student Name: swathi\n"
         "student usn: e201\n"
         "div: E\n"
         "age: 20"
